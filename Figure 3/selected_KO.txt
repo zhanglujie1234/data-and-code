@@ -1,0 +1,211 @@
+function	KO
+C-W-L pathway 	K00198
+C-W-L pathway 	K14138
+C-W-L pathway 	K00197
+C-W-L pathway 	K00194
+C-W-L pathway 	K15023
+C-rTCA cycle	K01648
+C-rTCA cycle	K15230
+C-rTCA cycle	K15231
+C-rTCA cycle	K15232
+C-rTCA cycle	K15233
+C-rTCA cycle	K15234
+C-CBB	K01601
+C-CBB	K01602
+C-CBB	K00855
+C-3HP bicycle	K01908
+C-3HP bicycle	K08691
+C-3HP_4HB	K01961
+C-3HP_4HB	K01962
+C-3HP_4HB	K01963
+C-3HP_4HB	K14534
+C-DC_4HB	K14534
+C-DC_4HB	K03737
+C-DC_4HB	K00169
+C-DC_4HB	K00170
+C-DC_4HB	K00172
+C-DC_4HB	K00189
+C-DC_4HB	K00171
+C-lignin	K00832
+C-lignin	K00838
+C-lignin	K01593
+C-lignin	K03721
+C-lignin	K11734
+C-lignin	K16237
+C-Chitin	K01125
+C-Chitin	K01205
+C-Chitin	K01227
+C-Chitin	K00698
+C-Chitin	K01183
+C-Chitin	K01452
+C-Chitin	K03478
+C-Chitin	K03791
+C-Chitin	K03933
+C-Chitin	K13381
+C-Chitin	K18454
+C-Chitin	K19877
+C-Chitin	K20547
+C-Lipids	K02106
+C-Aminosugars	K00731
+C-Aminosugars	K00972
+C-Aminosugars	K01132
+C-Aminosugars	K02079
+C-Aminosugars	K02080
+C-Aminosugars	K02473
+C-Aminosugars	K02474
+C-Aminosugars	K02744
+C-Aminosugars	K02745
+C-Aminosugars	K02746
+C-Aminosugars	K08106
+C-Aminosugars	K10984
+C-Aminosugars	K17248
+C-Aminosugars	K18674
+C-Cellulose	K01188
+C-Cellulose	K01210
+C-Cellulose	K01222
+C-Cellulose	K01223
+C-Cellulose	K05349
+C-Cellulose	K05350
+C-Cellulose	K19893
+C-Hemicellulose	K18106
+C-Hemicellulose	K19634
+C-Hemicellulose	K15918
+C-Hemicellulose	K18576
+C-Hemicellulose	K18578
+C-Hemicellulose	K18651
+C-Polysaccharides	K00688
+C-Polysaccharides	K00693
+C-Polysaccharides	K00750
+C-Polysaccharides	K01196
+C-Polysaccharides	K20438
+C-Polysaccharides	K03083
+C-Polysaccharides	K16150
+C-Polysaccharides	K16153
+C-Polysaccharides	K01176
+C-Disaccharides	K00697
+C-Disaccharides	K01087
+C-Disaccharides	K01226
+C-Disaccharides	K01236
+C-Disaccharides	K02819
+C-Disaccharides	K03485
+C-Disaccharides	K03486
+C-Disaccharides	K05342
+C-Disaccharides	K10236
+C-Disaccharides	K10237
+C-Disaccharides	K10238
+C-Disaccharides	K13057
+C-Disaccharides	K16055
+C-Disaccharides	K17311
+C-Disaccharides	K17312
+C-Disaccharides	K17313
+C-Disaccharides	K17314
+C-Disaccharides	K18851
+C-Disaccharides	K20470
+C-Disaccharides	K00661
+C-Disaccharides	K00691
+C-Disaccharides	K01232
+C-Disaccharides	K03556
+C-Disaccharides	K05343
+C-Disaccharides	K05775
+C-Disaccharides	K06896
+C-Disaccharides	K10108
+C-Disaccharides	K10109
+C-Disaccharides	K10110
+C-Disaccharides	K10236
+C-Disaccharides	K10237
+C-Disaccharides	K10238
+C-Disaccharides	K16136
+C-Disaccharides	K16148
+C-Disaccharides	K16211
+C-Disaccharides	K01190
+C-Disaccharides	K12111
+C-Disaccharides	K12308
+C-Disaccharides	K12309
+C-Disaccharides	K01229
+C-Disaccharides	K10117
+C-Disaccharides	K10118
+C-Disaccharides	K10119
+C-Disaccharides	K11104
+C-Monosaccharides	K10549
+C-Monosaccharides	K10550
+C-Monosaccharides	K10551
+C-Monosaccharides	K02770
+C-Monosaccharides	K01809
+C-Monosaccharides	K17497
+C-Monosaccharides	K00966
+C-Monosaccharides	K10046
+C-Monosaccharides	K10047
+C-Monosaccharides	K17744
+C-Monosaccharides	K01813
+C-Monosaccharides	K01820
+C-Monosaccharides	K02854
+C-Monosaccharides	K02855
+C-Monosaccharides	K02856
+C-Monosaccharides	K03534
+C-Monosaccharides	K17947
+C-Monosaccharides	K18337
+C-Monosaccharides	K01804
+C-Monosaccharides	K07264
+C-Monosaccharides	K07806
+C-Monosaccharides	K08159
+C-Monosaccharides	K10011
+C-Monosaccharides	K10012
+C-Monosaccharides	K10188
+C-Monosaccharides	K10189
+C-Monosaccharides	K10190
+C-Monosaccharides	K10191
+C-Monosaccharides	K10537
+C-Monosaccharides	K10538
+C-Monosaccharides	K10539
+C-Monosaccharides	K13873
+C-Monosaccharides	K19660
+C-Monosaccharides	K00917
+C-Monosaccharides	K01635
+C-Monosaccharides	K02082
+C-Monosaccharides	K08302
+C-Monosaccharides	K16371
+C-Monosaccharides	K18910
+N-Nitrogen fixation	K02586
+N-Nitrogen fixation	K02591
+N-Nitrogen fixation	K02588
+N-Nitrogen fixation	K00531
+N-Nitrogen fixation	K22896
+N-Nitrogen fixation	K22897
+N-Nitrogen fixation	K22898
+N-Nitrogen fixation	K22899
+N-Nitrification	K10944
+N-Nitrification	K10945
+N-Nitrification	K10946
+N-Nitrification	K10535
+N-Nitrification	K00370
+N-Nitrification	K00371
+N-Nitrification	K05916
+N-Denitrification	K00370
+N-Denitrification	K00371
+N-Denitrification	K00374
+N-Denitrification	K02567
+N-Denitrification	K02568
+N-Denitrification	K00368
+N-Denitrification	K15864
+N-Denitrification	K04561
+N-Denitrification	K02305
+N-Denitrification	K00376
+N-Anammox	K20932
+N-Anammox	K20933
+N-Anammox	K20934
+N-Anammox	K20935
+N-Assimilatory nitrate reduction	K00367
+N-Assimilatory nitrate reduction	K10534
+N-Assimilatory nitrate reduction	K00372
+N-Assimilatory nitrate reduction	K00360
+N-Assimilatory nitrate reduction	K17877
+N-Assimilatory nitrate reduction	K00366
+N-Dissimilatory nitrate reduction	K00370
+N-Dissimilatory nitrate reduction	K00371
+N-Dissimilatory nitrate reduction	K00374
+N-Dissimilatory nitrate reduction	K02567
+N-Dissimilatory nitrate reduction	K02568
+N-Dissimilatory nitrate reduction	K00362
+N-Dissimilatory nitrate reduction	K00363
+N-Dissimilatory nitrate reduction	K03385
+N-Dissimilatory nitrate reduction	K15876
